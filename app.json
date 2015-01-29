@@ -1,0 +1,7 @@
+{
+  "name": "Subzi Mandi",
+  "description": "Subzi Mandi",
+  "repository": "https://github.com/johnnyBravo/subzimandi",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static"]
+}

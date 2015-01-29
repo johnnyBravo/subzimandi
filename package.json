@@ -1,0 +1,29 @@
+{
+  "name": "subzimandi",
+  "version": "0.1.0",
+  "description": "Subzi Mandi",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.0.0"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnnyBravo/subzimandi"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "author": "Johnny Bravo",
+  "contributors": [
+    
+  ],
+  "license": "MIT"
+}
